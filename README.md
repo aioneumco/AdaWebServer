@@ -1,0 +1,1 @@
+This code sets up a simple web server that listens on port 8080 and sends a basic HTML page to the client. When the user clicks the button, they will be redirected to another device (Device 2) at a specified IP address (<IP-Device-2>). The server then closes the connection after sending the response.
